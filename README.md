@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://www.giatec.de/wp-content/uploads/2021/10/1200px-Microsoft_.NET_Logo.svg_-1024x975.png" width="200" alt="Microsoft .NET application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/microsoft-.net">
+<a href="https://ysids-apps-hub.github.io/.github/microsoft-.net">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Microsoft .NET macOS product page">
 </a><br><br>
 <div align="center">
